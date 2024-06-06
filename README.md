@@ -14,4 +14,4 @@ Try to get as far as possible to increase your score!
 - Score tracking and display.
 
 # License 
-This game is available for personal and private use. Individuals are allowed to play and enjoy the game free of charge. However, no part of this game may be sold, distributed for monetary gain, or used in any commercial capacity without explicit permission from the author. All rights to the game's content, design, and code are exclusively held by the creator.
+This game is available for personal and private use. Individuals are allowed to play and enjoy the game free of charge. However, no part of this game may be sold, distributed for monetary gain, or used in any commercial capacity without explicit permission from the author. All rights to the game's content, design, and code are exclusively held by this GitHub account holder.
