@@ -24,6 +24,7 @@ const player = {
         ctx.fillStyle = 'red';
 
         // Do a human player: 
+        //** Planning on doing this in v2^^ not for this version at the moment. 
         
         ctx.beginPath();
         ctx.moveTo(this.x, this.y);
