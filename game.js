@@ -24,7 +24,6 @@ const player = {
         ctx.fillStyle = 'red';
 
         // Do a human player: 
-        //** Planning on doing this in v2^^ not for this version at the moment. 
         
         ctx.beginPath();
         ctx.moveTo(this.x, this.y);
@@ -62,7 +61,7 @@ function updateGameArea() {
     if (frame % 100 === 0) {  // Frequent obstacles
         createObstacle();
         score++;
-        gameSpeed += 1; // Speed increase
+        gameSpeed += 0.2; // Speed increase
     }
 
     obstacles.forEach((obstacle, index) => {
