@@ -1,8 +1,8 @@
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
-canvas.width = 800;
-canvas.height = 800;
+canvas.width = 2050;
+canvas.height = 1050;
 
 let score = 0;
 let gameSpeed = 0.5; // Faster initial speed
