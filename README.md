@@ -6,6 +6,7 @@ Space Flyer is a simple yet challenging browser-based game where players control
 All you need to do is download the ZIP file above, extract it, and click on Index. That's it, feel free to play on your own Microsoft Edge browser and enjoy.
 
 # How to Play
+Make the browswer FullScreen. This is important for User Experience. 
 Use the Space Bar or Arrow Up key to make the triangle move upwards.
 Use the Arrow Down key to move downwards quickly.
 Avoid the green obstacles that move towards the triangle.
